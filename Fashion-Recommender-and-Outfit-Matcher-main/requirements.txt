@@ -1,0 +1,13 @@
+google-generativeai
+gdown
+requests
+numpy
+pandas
+Pillow
+protobuf
+scikit_learn
+streamlit
+tensorflow
+
+
+
